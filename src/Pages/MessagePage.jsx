@@ -1,6 +1,6 @@
 import React from "react";
 
-import gif from "../assets/processing.gif";
+import gif from "../../src/assets/processing.gif";
 import Header from "../Components/Layout/Header";
 import Footer from "../Components/Layout/Footer";
 
