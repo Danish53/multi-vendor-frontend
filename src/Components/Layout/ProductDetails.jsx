@@ -86,7 +86,7 @@ const ProductDetails = ({ data }) => {
                     {...{
                       smallImage: {
                         alt: "product image",
-                        isFluidWidth: `800px:${true} ${false}`,
+                        isFluidWidth: true,
                         src: data?.image_Url[select]?.url,
                       },
                       largeImage: {
